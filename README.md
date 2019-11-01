@@ -1,5 +1,5 @@
-## LESSQL Home Page
+# LESSQL Home Page
 
-Text
+Here you will find discussions about the LESSQL framework!
 
-### Under Construction
+## Currently under construction
