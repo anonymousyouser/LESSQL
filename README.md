@@ -4,6 +4,16 @@ Here you will find discussions about the LESSQL framework!
 
 Our [dataset](https://github.com/anonymousyouser/LESSQL/blob/master/dataset.zip) is currently available!
 
+All of our experiments were executed on a machine with the following specifications:
+
+Machine | Specifications
+------- | --------------
+CPU | Intel Core i7 7700 3.4GHz
+Memory | 32GB
+Hard Disk | 1TB
+OS Distribution | Linux Ubuntu Bionic Beaver 18.04
+Python | Python 3.4
+
 ## Dataset Limitations
 
 I. In the dataset, the number of attributes that suffered modifications in a single schema change is reasonably small, on average. The biggest schema change was on version 21, that is, 27 attribute modifications in total. However, this dataset covers 4 years of development in the Wikipedia project and is representative for all the problems we tackle, since it went through a high diversity of schema structural changes.
