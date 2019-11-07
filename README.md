@@ -28,4 +28,4 @@ IV.	We do not measure how the adoption of LESSQL affects development processes, 
 
 ## Solution Limitations
 
-V. A.	Depending on the type and number of changes, the SchemaDiff algorithm may struggle to find the correct attribute mappings. For example, an attribute previously named "person” renamed to “identification” is a significant change since SchemaDiff relies on syntactic similarity. However, as discussed in the paper, this situation can be circumvented by using the hybrid or supervised configurations.
+V. Depending on the type and number of changes, the SchemaDiff algorithm may struggle to find the correct attribute mappings. For example, an attribute previously named "person” renamed to “identification” is a significant change since SchemaDiff relies on syntactic similarity. However, as discussed in the paper, this situation can be circumvented by using the hybrid or supervised configurations.
